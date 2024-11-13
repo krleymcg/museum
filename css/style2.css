@@ -1,0 +1,50 @@
+
+.btn {
+    
+font-size: 1rem;
+line-height: 1.38889;
+padding: 15px 30px;
+width: auto;
+border: 1px solid #000;
+border-radius: 0;
+font-weight: 600;
+margin: 5px;
+text-align: center black;
+color:black;
+text-decoration: black;
+vertical-align: middle;
+
+}
+div {
+    border: #ffff5a, solid;
+}
+
+.marsecondary {
+    background-color: #ffff5a;
+   
+}
+
+.btn-lg {
+    font-size: 1rem;
+    line-height: 1.38889;
+    padding: 15px 30px;
+
+}
+.marprimary:hover{
+    background-color: #000;
+    color:white
+
+}
+.marsecondary:hover{
+    background-color: #000;
+    color:white;
+}
+
+.hola {
+       display: flex;
+       flex-direction: row;
+       justify-content: flex-end;
+}
+ section {
+    border: red solid;
+ }

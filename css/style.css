@@ -1,0 +1,128 @@
+footer {
+    font-family: 14 xp 'MFAGarnett', sans-serif;
+    font-weight: 400;
+    color: #000;
+    background-color: #EDEEEE;
+    border-top: 1px solid #000;
+    height: 1099.200px;
+    width: 1000px; 
+    padding: 36px 36px;
+}
+
+.plan {
+    background-color: transparent;
+    border: 1px solid #000;
+    border-radius: 0;
+    color: #000;
+    font-weight: 600;
+    font-size: 0.77777778rem;
+    line-height: 1.392857;
+    padding: 10px 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.plan:hover {
+    background-color: #000;
+    color: white
+}
+
+.visit {
+    text-align: start;
+    text-decoration-color: #000;
+    line-height: 19.6px;
+    color: #000;
+    font-weight: 400;
+    font-family: 'MFAGarnett', sans-serif;
+    font-size: 14px;
+    line-height: 1.392857;
+    margin-bottom: 43.2px;
+    margin-top: 0px;
+    max-width: 100%;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
+    line-height: 19.6px;
+    width: 276.112px;
+    unicode-bidi: isolate;
+}
+
+.Connect {
+    margin-bottom: 43px;
+    width: 45px;
+    height: 45px;
+    border: solid, #000 1px;
+    padding: 13.5px 13.5px;
+    position: relative;
+
+}
+.menu {
+    padding-top: 10 px 10px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+    color: #000;
+    list-style: none;
+    font-family: MFAGarnett, sans-serif, black;
+    
+}
+
+.email {
+    font-size: 14px;
+    font-weight: 200;
+    font-family: 'MFAGarnett', sans-serif, black;
+    line-height: 19.6px;
+    margin-top: 0px;
+    margin-bottom: 43.2px;
+    max-width: 100%;
+    padding-left: 13.5px;
+    padding-right: 13.5px;
+    unicode-bidi: isolate;
+    width: 201.113px;
+    text-align: start;
+    height: auto;
+    position: relative;
+    
+}
+#sol {
+    padding: 0px 0px;
+   width: 190px;
+    height: 120px;
+   margin: 0px 0px;
+}
+#sol li{
+
+    color: transparent;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    list-style: none;
+    display:inline-block;
+    padding-left: 0px;
+    padding-inline: 0px;
+    margin: 1.25px;
+
+
+}
+#social {
+    background-image:url(../img/icons.svg);
+    background-repeat: no-repeat;
+    height: 45px;
+    width: 190px;
+    
+}
+
+
+#men li{
+    color: #000;
+    list-style: none;
+}
+
+.container{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.menu2{padding-left: 0px;}
+a{
+    color: #000;
+}
